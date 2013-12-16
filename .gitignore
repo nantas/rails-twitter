@@ -24,3 +24,4 @@ doc/
 .idea
 /.vimfiles.*
 *.vimentry
+quick_gen_project_app_autogen.sh
