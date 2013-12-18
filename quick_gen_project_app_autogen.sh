@@ -2,11 +2,11 @@
 export script_type="autogen"
 export EX_DEV="~/exdev"
 export cwd=${PWD}
-export toolkit_path=/home/nantas/.toolkit
+export toolkit_path=/Users/nantas/.toolkit
 export lang_type="ruby html c cpp c# javascript java shader python lua vim uc matlab wiki ini make sh batch debug qt swig"
 export vimfiles_path=".vimfiles.app"
-export file_filter="erb|rb|ru|html|css|scss|yml|md|c|C|c\+\+|cc|cp|cpp|cxx|h|H|h\+\+|hh|hp|hpp|hxx|inl|ipp|cs|js|as|java|hlsl|vsh|psh|fx|fxh|cg|shd|glsl|py|pyw|pyx|pxd|lua|wlua|vim|uc|m|wiki|ini|cfg|mak|mk|Makefile|makefile|sh|SH|bsh|bash|ksh|zsh|bat|log|err|exe|qrc|pro|pri|i|swg"
-export file_filter_pattern='\\.erb$|\\.rb$|\\.ru$|\\.html$|\\.css$|\\.scss$|\\.yml$|\\.md$|\\.c$|\\.C$|\\.c++$|\\.cc$|\\.cp$|\\.cpp$|\\.cxx$|\\.h$|\\.H$|\\.h++$|\\.hh$|\\.hp$|\\.hpp$|\\.hxx$|\\.inl$|\\.ipp$|\\.cs$|\\.js$|\\.as$|\\.java$|\\.hlsl$|\\.vsh$|\\.psh$|\\.fx$|\\.fxh$|\\.cg$|\\.shd$|\\.glsl$|\\.py$|\\.pyw$|\\.pyx$|\\.pxd$|\\.lua$|\\.wlua$|\\.vim$|\\.uc$|\\.m$|\\.wiki$|\\.ini$|\\.cfg$|\\.mak$|\\.mk$|\\.Makefile$|\\.makefile$|\\.sh$|\\.SH$|\\.bsh$|\\.bash$|\\.ksh$|\\.zsh$|\\.bat$|\\.log$|\\.err$|\\.exe$|\\.qrc$|\\.pro$|\\.pri$|\\.i$|\\.swg$'
+export file_filter="yml|rb|erb|html|css|scss|txt|md|c|C|c\+\+|cc|cp|cpp|cxx|h|H|h\+\+|hh|hp|hpp|hxx|inl|ipp|cs|js|as|java|hlsl|vsh|psh|fx|fxh|cg|shd|glsl|py|pyw|pyx|pxd|lua|wlua|vim|uc|m|wiki|ini|cfg|mak|mk|Makefile|makefile|sh|SH|bsh|bash|ksh|zsh|bat|log|err|exe|qrc|pro|pri|i|swg"
+export file_filter_pattern='\\.yml$|\\.rb$|\\.erb$|\\.html$|\\.css$|\\.scss$|\\.txt$|\\.md$|\\.c$|\\.C$|\\.c++$|\\.cc$|\\.cp$|\\.cpp$|\\.cxx$|\\.h$|\\.H$|\\.h++$|\\.hh$|\\.hp$|\\.hpp$|\\.hxx$|\\.inl$|\\.ipp$|\\.cs$|\\.js$|\\.as$|\\.java$|\\.hlsl$|\\.vsh$|\\.psh$|\\.fx$|\\.fxh$|\\.cg$|\\.shd$|\\.glsl$|\\.py$|\\.pyw$|\\.pyx$|\\.pxd$|\\.lua$|\\.wlua$|\\.vim$|\\.uc$|\\.m$|\\.wiki$|\\.ini$|\\.cfg$|\\.mak$|\\.mk$|\\.Makefile$|\\.makefile$|\\.sh$|\\.SH$|\\.bsh$|\\.bash$|\\.ksh$|\\.zsh$|\\.bat$|\\.log$|\\.err$|\\.exe$|\\.qrc$|\\.pro$|\\.pri$|\\.i$|\\.swg$'
 export cscope_file_filter="c|C|c\+\+|cc|cp|cpp|cxx|h|H|h\+\+|hh|hp|hpp|hxx|inl|ipp|hlsl|vsh|psh|fx|fxh|cg|shd|glsl"
 export cscope_file_filter_pattern='\\.c$|\\.C$|\\.c++$|\\.cc$|\\.cp$|\\.cpp$|\\.cxx$|\\.h$|\\.H$|\\.h++$|\\.hh$|\\.hp$|\\.hpp$|\\.hxx$|\\.inl$|\\.ipp$|\\.hlsl$|\\.vsh$|\\.psh$|\\.fx$|\\.fxh$|\\.cg$|\\.shd$|\\.glsl$'
 export dir_filter=""
